@@ -1,10 +1,15 @@
-# AIRBNB CLONE.
-### WEB STATIC.
-
-#### Definition.
-* A static web page is an Internet  site that displays the same content for all users, rather than providing personalized content tailored to each user, and which is not updated often. 
-* Static web pages sometimes referred to as flat pages, contrast with dynamic web pages that are frequently updated and it gives personalized information for individual users.
-* This Web Static is the part of the AirBnB project where HTML and CSS are the the two main agendas here...
-
-### Author: Waython Yesse
-  * waythonny@yahoo.com
+# 0x01. AirBnB clone - Web static
+At the end of this project you are expected to be able to explain to anyone, without the help of Google:
+* What is HTML?
+* How do you create an HTML page?
+* What is a markup language?
+* What is the DOM?
+* What is an element / tag?
+* What is an attribute?
+* How does the browser load a webpage?
+* What is CSS?
+* How do you add style to an element?
+* What is a class?
+* What is a selector?
+* How do you compute CSS Specificity Value?
+* What are Box properties in CSS?
